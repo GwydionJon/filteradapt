@@ -5,3 +5,6 @@ dependencies:
   - ipyvolume
   - jupyterlab
   - laspy
+  - pdal
+  - python-pdal
+
